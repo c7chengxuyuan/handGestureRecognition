@@ -13,6 +13,6 @@
 #2019.12.30
 #I can achivesimple target detection by training my data set
 #
-
+https://github.com/c7chengxuyuan/handGestureRecognition/blob/master/0143A6FF61FBFEBC2A202EAE7CB0D2CE.jpg
 #
 #updating....
