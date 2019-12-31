@@ -8,7 +8,8 @@
 #
 #you can learn it from 
 #https://pjreddie.com/
-#
+#my Golab project
+#https://drive.google.com/drive/folders/1fPb80eKkyE2FKeTzp-1dTV3zOgOkI7YM?usp=sharing
 #
 #2019.12.30
 #I can achivesimple target detection by training my data set
