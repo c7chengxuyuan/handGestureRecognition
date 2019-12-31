@@ -9,4 +9,10 @@
 #you can learn it from 
 #https://pjreddie.com/
 #
+#
+#2019.12.30
+#I can achivesimple target detection by training my data set
+#
+
+#
 #updating....
