@@ -17,7 +17,7 @@
 
 Based on yolov3 target detection network, we make our own data set.
 
-
+![image](https://github.com/c7chengxuyuan/handGestureRecognition/blob/master/dataset.png)
 #
 
 It can basically achieve the static detection of the opponent's target.
