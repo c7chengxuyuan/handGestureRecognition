@@ -35,6 +35,6 @@ It can locate single target gesture accurately, but there are still some problem
 #
 Train after adjusting each parameter
 #
-![image](https://github.com/c7chengxuyuan/handGestureRecognition/blob/master/dataset.png)
+![image](https://github.com/c7chengxuyuan/handGestureRecognition/blob/master/numH.png)
 #
 #updating....
