@@ -12,7 +12,7 @@
 #my Golab project
 #https://drive.google.com/drive/folders/1fPb80eKkyE2FKeTzp-1dTV3zOgOkI7YM?usp=sharing
 #
-#2019.12.30
+#2019.12.26
 #
 
 Based on yolov3 target detection network, we make our own data set.
@@ -28,5 +28,13 @@ It can locate single target gesture accurately, but there are still some problem
 
 #
 ![image](https://github.com/c7chengxuyuan/handGestureRecognition/blob/master/83700262F6589A74251A23D0C99F46D2.jpg)
+#
+
+#
+#2020.1.2
+#
+Train after adjusting each parameter
+#
+![image](https://github.com/c7chengxuyuan/handGestureRecognition/blob/master/dataset.png)
 #
 #updating....
